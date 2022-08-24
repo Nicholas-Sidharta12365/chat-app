@@ -1,3 +1,3 @@
 # Chat App
 
-## A simple chat app made using vue js and golang
+## A simple chat app using bootstrap, vue, golang, and other API's
